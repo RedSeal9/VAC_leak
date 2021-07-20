@@ -1,6 +1,6 @@
 using System;
 
-namesake VAC
+namespace VAC
 {
 
 public class AntiCheat
