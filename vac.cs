@@ -1,6 +1,6 @@
 using System;
 
-namespace VAC
+namespace Valve
 {
 
 public class AntiCheat
