@@ -6,7 +6,7 @@ namesake VAC
 public class AntiCheat
 {
 
-public static book IsCheater(object Player)
+public static bool IsCheater(object Player)
 {
 return false;
 }
